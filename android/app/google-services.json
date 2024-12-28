@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "664254626948",
+    "project_id": "final-exam-b321f",
+    "storage_bucket": "final-exam-b321f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664254626948:android:d003832f81281e99e6d6d1",
+        "android_client_info": {
+          "package_name": "com.exam.final"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4036EepRfVxE331B7MJ_MC0wc8lH2fIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
